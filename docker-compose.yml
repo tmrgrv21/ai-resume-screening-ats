@@ -1,0 +1,29 @@
+version: '3.8'
+
+services:
+  mongodb:
+    image: mongo:latest
+    container_name: ai_resume_mongodb
+    ports:
+      - "27017:27017"
+    environment:
+      - MONGO_INITDB_DATABASE=ai_resume_screening
+    volumes:
+      - mongo_data:/data/db
+    restart: always
+
+  app:
+    build: .
+    container_name: ai_resume_screening_app
+    ports:
+      - "8501:8501"
+      - "8000:8000"
+    environment:
+      - MONGODB_URI=mongodb://mongodb:27017
+      - MONGODB_DATABASE=ai_resume_screening
+    depends_on:
+      - mongodb
+    restart: always
+
+volumes:
+  mongo_data:

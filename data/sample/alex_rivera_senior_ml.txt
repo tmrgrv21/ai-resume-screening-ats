@@ -1,0 +1,32 @@
+ALEX RIVERA
+Email: alex.rivera@example.com | Phone: (555) 019-2831 | Location: San Francisco, CA
+
+SUMMARY
+Senior AI/ML Engineer with 6+ years of production experience building NLP systems, transformer embeddings, and deep learning microservices. Expert in Python, PyTorch, HuggingFace, Docker, AWS, and MLOps.
+
+TECHNICAL SKILLS
+- Programming Languages: Python, SQL, C++, Bash
+- Machine Learning & AI: PyTorch, TensorFlow, Scikit-learn, Pandas, NumPy, Deep Learning
+- NLP & Transformers: BERT, SentenceTransformers, HuggingFace, SpaCy, NLTK, LLM, RAG
+- MLOps & Cloud: Docker, Kubernetes, AWS, FastAPI, Flask, REST API, Git, CI/CD
+- Databases: PostgreSQL, MongoDB, Redis, Vector Databases
+
+WORK EXPERIENCE
+
+Lead AI Engineer | NextGen Analytics (2021 - Present)
+- Architected semantic search and recommendation engines serving 2M+ daily active users using SentenceTransformers and PyTorch.
+- Containerized model inference pipelines with Docker and FastAPI, reducing API latency by 45%.
+- Implemented MLOps workflows using AWS SageMaker, Docker, and GitHub Actions CI/CD.
+
+Senior Machine Learning Engineer | DataVision Tech (2018 - 2021)
+- Developed fine-tuned BERT and SpaCy models for named entity recognition and document classification with 94% F1 score.
+- Built data processing pipelines in Python, Pandas, NumPy, and SQL processing over 10TB of raw text data.
+- Collaborated with product teams to deploy REST APIs using Flask and Docker.
+
+EDUCATION
+B.S. in Computer Science & Artificial Intelligence
+University of California, Berkeley (2014 - 2018)
+
+CERTIFICATIONS
+- AWS Certified Machine Learning - Specialty
+- Deep Learning Specialization (DeepLearning.AI)

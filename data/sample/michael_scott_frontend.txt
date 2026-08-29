@@ -1,0 +1,25 @@
+MICHAEL SCOTT
+Email: michael.scott@example.com | Phone: (555) 012-7711 | Location: Scranton, PA
+
+SUMMARY
+Creative Frontend Web Developer with 4 years of experience building modern web applications, responsive user interfaces, and single-page apps using React, JavaScript, HTML, CSS, and Node.js.
+
+TECHNICAL SKILLS
+- Frontend: React, JavaScript, TypeScript, HTML5, CSS3, Tailwind, Redux, Next.js
+- Backend: Node.js, Express, REST API
+- Tools: Git, GitHub, VS Code, Figma, Webpack
+- Databases: MongoDB
+
+WORK EXPERIENCE
+Senior Web Developer | Dunder Frontend Lab (2020 - Present)
+- Developed responsive web interfaces using React, Redux, and Tailwind CSS for e-commerce platforms.
+- Integrated REST APIs built with Node.js and Express to fetch live data.
+- Optimized web application page load speed by 35% through code splitting and image caching.
+
+Web Developer | Scrantonic Media (2018 - 2020)
+- Designed interactive UI components in HTML, CSS, and JavaScript.
+- Collaborated with UI/UX designers to translate Figma mockups into pixel-perfect React components.
+
+EDUCATION
+B.A. in Web Design & Digital Media
+Penn State University (2014 - 2018)

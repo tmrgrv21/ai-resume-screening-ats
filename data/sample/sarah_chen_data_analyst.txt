@@ -1,0 +1,25 @@
+SARAH CHEN
+Email: sarah.chen@example.com | Phone: (555) 014-9922 | Location: Chicago, IL
+
+SUMMARY
+Data Analyst & Applied ML Specialist with 3+ years of experience in data modeling, statistical analysis, Python, SQL, and Scikit-learn. Skilled in exploratory data analysis, visualization, and building predictive models.
+
+SKILLS
+- Programming: Python, R, SQL, HTML
+- Data Science & ML: Pandas, NumPy, Scikit-learn, Statistics, Machine Learning, Data Mining
+- Visualization & Tools: Power BI, Tableau, Excel, Git, Jupyter
+- Database: MySQL, PostgreSQL
+
+EXPERIENCE
+Data Analyst | Midwest Analytics Group (2021 - Present)
+- Performed predictive customer churn analysis using Python, Pandas, and Scikit-learn classification algorithms.
+- Designed interactive Power BI dashboards for executive reporting.
+- Executed complex SQL queries to clean and aggregate multi-gigabyte datasets.
+
+Junior Data Specialist | Insight Solutions (2020 - 2021)
+- Created automated reporting scripts in Python and Excel VBA.
+- Conducted A/B testing and hypothesis validation for digital marketing campaigns.
+
+EDUCATION
+B.S. in Statistics & Data Science
+University of Illinois Urbana-Champaign (2016 - 2020)
